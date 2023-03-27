@@ -11,7 +11,6 @@ public class ProgrammersTESTPro {
         return answer;
     }
 	public static void main(String[] args) {
-//		String[] genres = new String[] { "classic", "pop", "classic", "classic", "pop" };
 		int [] plays = new int [] {10, 2, 3, 800, 2500};
 		System.out.println(Arrays.toString(solution(plays)));
 	}
